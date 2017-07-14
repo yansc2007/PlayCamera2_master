@@ -18,6 +18,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.ImageButton;
 
 public class CameraActivity extends Activity implements CamOpenOverCallback {
+
     private static final String TAG = "yanzi";
     CameraTextureView textureView = null;
     ImageButton shutterBtn;
