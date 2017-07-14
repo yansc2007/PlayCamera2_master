@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "F:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidTestProject\\PlayCamera2_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "F:\\AndroidTestProject\\PlayCamera2_master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]

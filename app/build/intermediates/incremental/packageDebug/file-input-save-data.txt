@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Jul 14 14:55:25 CST 2017
+2.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+5.set=ANDROID_RESOURCE
+3.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\welcom.png
+5.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\btn_camera_all_click.png
+4.set=ANDROID_RESOURCE
+6.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher_icon.png
+9.set=ANDROID_RESOURCE
+9.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\camera.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=DEX
+0.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\btn_camera_all.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\AndroidTestProject\\PlayCamera_V2.0.01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\btn_shutter_background.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
